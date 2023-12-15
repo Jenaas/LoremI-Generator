@@ -1,3 +1,3 @@
 # LoremI-Generator
 
-Doplneni README file 14.12.2023
+Doplneni README file 15.12.2023
